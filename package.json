@@ -22,5 +22,8 @@
     "pre-commit": "^1.2.2",
     "tslint-config-airbnb": "^5.8.0",
     "typescript": "^2.8.3"
-  }
+  },
+  "pre-commit": [
+    "lint"
+  ]
 }
